@@ -8,7 +8,6 @@
 
 **Maps**
 - [Maps - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
-- [Understanding Maps in JavaScript - DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-maps-in-javascript)
 
 **Arrays**
 - [JavaScript Arrays - W3Schools](https://www.w3schools.com/js/js_arrays.asp)

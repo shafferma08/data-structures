@@ -29,3 +29,7 @@
 **Videos**
 - [Big-O Notation in 100 Seconds](https://youtu.be/g2o22C3CRfU)
 - [Learn Big O Notation In 12 Minutes](https://youtu.be/itn09C2ZB9Y)
+
+**Other Visuals**
+- [Big O Sketch Notes](https://media.licdn.com/dms/document/media/D4D1FAQFEzl3LqgNEUQ/feedshare-document-pdf-analyzed/0/1688458705587?e=1689811200&v=beta&t=AiPyN-e5ztzVFHAbt-fwM_l8gNtt2Hj4Q6x1Lj9pOA8)
+- [Girlie Mac Sketch Notes](https://girliemac.com/doodles/)

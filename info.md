@@ -128,3 +128,4 @@ Big O notation is used in computer science to describe the performance or comple
 
 Understanding Big O notation and time complexity is essential for writing efficient code, particularly in applications dealing with large amounts of data.
 ![Big O Notation Summary](https://images.squarespace-cdn.com/content/v1/51e97622e4b001fd0a6bba71/1521928168525-QM8F87Q76TVYKLO33A0N/Big%2BO%2BNotation%2BSummary.jpg?format=750w)
+![Time complexity of an algorithm](https://media.licdn.com/dms/image/C5112AQELJi9rrpPeTw/article-cover_image-shrink_423_752/0/1520133128080?e=1694044800&v=beta&t=bVa3gU7qBgdJz-mCyMxPN92SWhqfmwi1L3C4YjtNjuw)

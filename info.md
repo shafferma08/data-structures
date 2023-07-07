@@ -127,3 +127,4 @@ Big O notation is used in computer science to describe the performance or comple
 3. O(n^2): Quadratic time complexity. Time taken grows quadratically with the size of the data.
 
 Understanding Big O notation and time complexity is essential for writing efficient code, particularly in applications dealing with large amounts of data.
+![Big O Notation Summary](https://images.squarespace-cdn.com/content/v1/51e97622e4b001fd0a6bba71/1521928168525-QM8F87Q76TVYKLO33A0N/Big%2BO%2BNotation%2BSummary.jpg?format=750w)

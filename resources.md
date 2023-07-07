@@ -19,14 +19,12 @@
 
 **Filtering Data Structures: Arrays, Objects, Sets, Maps**
 - [JavaScript Array filter() Method - W3Schools](https://www.w3schools.com/jsref/jsref_filter.asp)
-- [Filtering an Object - Stack Overflow](https://stackoverflow.com/questions/5072136/javascript-filter-for-objects)
-- [Filtering a Set - Stack Overflow](https://stackoverflow.com/questions/42763610/javascript-filtering-a-set)
-- [Filtering a Map - Stack Overflow](https://stackoverflow.com/questions/38750705/filter-object-properties-by-key-in-es6)
+- [How to Filter an Object with JavaScript](https://masteringjs.io/tutorials/fundamentals/filter-object)
 
 **A Primer on Big O Notation**
 - [Big O Notation - Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
 - [Big O Notation in JavaScript - codeburst](https://codeburst.io/big-o-notation-in-javascript-36ff67766051)
 
 **Videos**
-- ![Big-O Notation in 100 Seconds](https://youtu.be/g2o22C3CRfU)
-- ![Learn Big O Notation In 12 Minutes](https://youtu.be/itn09C2ZB9Y)
+- [Big-O Notation in 100 Seconds](https://youtu.be/g2o22C3CRfU)
+- [Learn Big O Notation In 12 Minutes](https://youtu.be/itn09C2ZB9Y)

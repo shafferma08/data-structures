@@ -5,7 +5,6 @@
 
 **Sets**
 - [Sets - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
-- [ES6 In Depth: Sets and Maps - Mozilla Hacks](https://hacks.mozilla.org/2015/06/es6-in-depth-sets-and-maps/)
 
 **Maps**
 - [Maps - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)

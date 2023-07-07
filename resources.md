@@ -1,5 +1,6 @@
 
 **Basic Data Structures: Introduction**
+- [freeCodeCamp Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
 - [Data Structures - GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 - [JavaScript data types and data structures - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#data_structures)
 
